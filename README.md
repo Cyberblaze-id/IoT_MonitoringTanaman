@@ -2,6 +2,7 @@
 
 ## Output WEB
 ![Output Web](WEB.png)
+## Alat
 ![Alat](iot.png)
 
 **URL**: [https://monitoringtanaman.my.id/home.php](https://monitoringtanaman.my.id/)
