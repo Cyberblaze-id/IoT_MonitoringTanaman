@@ -5,7 +5,7 @@
 ## Alat
 ![Alat](iot.png)
 
-**URL**: [https://monitoringtanaman.my.id/home.php](https://monitoringtanaman.my.id/)
+**URL**: [https://monitoringtanaman.my.id/](https://monitoringtanaman.my.id/)
 
 ## Deskripsi
 Website **Monitoring Tanaman** adalah platform berbasis web yang dirancang untuk membantu petani atau pemilik lahan dalam memantau kondisi tanaman mereka secara real-time. Dengan menggunakan teknologi ini, pengguna dapat memperoleh informasi penting seperti kelembaban tanah, suhu, dan kondisi lingkungan yang relevan untuk mendukung pertumbuhan tanaman.
@@ -61,7 +61,7 @@ Website **Monitoring Tanaman** adalah platform berbasis web yang dirancang untuk
 ---
 
 ## Cara Mengakses
-1. Buka browser dan kunjungi URL berikut: [https://monitoringtanaman.my.id/home.php](https://monitoringtanaman.my.id/).
+1. Buka browser dan kunjungi URL berikut: [https://monitoringtanaman.my.id/](https://monitoringtanaman.my.id/).
 2. Login atau daftar untuk mulai menggunakan fitur yang tersedia.
 3. Hubungkan perangkat IoT Anda dengan sistem untuk mendapatkan data real-time.
 
